@@ -1,0 +1,12 @@
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-6-doubly-linked-list-NateHillhouse\DoublyLinkedListClassLib\bin\Debug\net10.0\DoublyLinkedListClassLib.deps.json
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-6-doubly-linked-list-NateHillhouse\DoublyLinkedListClassLib\bin\Debug\net10.0\DoublyLinkedListClassLib.dll
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-6-doubly-linked-list-NateHillhouse\DoublyLinkedListClassLib\bin\Debug\net10.0\DoublyLinkedListClassLib.pdb
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-6-doubly-linked-list-NateHillhouse\DoublyLinkedListClassLib\obj\Debug\net10.0\DoublyLinkedListClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-6-doubly-linked-list-NateHillhouse\DoublyLinkedListClassLib\obj\Debug\net10.0\DoublyLinkedListClassLib.AssemblyInfoInputs.cache
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-6-doubly-linked-list-NateHillhouse\DoublyLinkedListClassLib\obj\Debug\net10.0\DoublyLinkedListClassLib.AssemblyInfo.cs
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-6-doubly-linked-list-NateHillhouse\DoublyLinkedListClassLib\obj\Debug\net10.0\DoublyLinkedListClassLib.csproj.CoreCompileInputs.cache
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-6-doubly-linked-list-NateHillhouse\DoublyLinkedListClassLib\obj\Debug\net10.0\DoublyLinkedListClassLib.sourcelink.json
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-6-doubly-linked-list-NateHillhouse\DoublyLinkedListClassLib\obj\Debug\net10.0\DoublyLinkedListClassLib.dll
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-6-doubly-linked-list-NateHillhouse\DoublyLinkedListClassLib\obj\Debug\net10.0\refint\DoublyLinkedListClassLib.dll
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-6-doubly-linked-list-NateHillhouse\DoublyLinkedListClassLib\obj\Debug\net10.0\DoublyLinkedListClassLib.pdb
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-6-doubly-linked-list-NateHillhouse\DoublyLinkedListClassLib\obj\Debug\net10.0\ref\DoublyLinkedListClassLib.dll
